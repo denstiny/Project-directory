@@ -1,7 +1,7 @@
 # Init-Project-directory
-[English](https://github.com/denstiny/Project-directory/blob/main/README.md)|[简体中文]()  
+[English](https://github.com/denstiny/Project-directory/blob/main/README.md)|[简体中文](https://github.com/denstiny/Project-directory/blob/main/src/README.md)  
 
-### 这是一个快速生成工程目录的脚本
+### 这是一个快速生成工程目录的脚本,完全使用shell脚本
 
 
 ### 如何使用它
