@@ -1,4 +1,4 @@
-# Project-directory
+# Init-Project-directory
 [English](https://github.com/denstiny/Project-directory/blob/main/README.md)|[简体中文]()  
 
 ### 这是一个快速生成工程目录的脚本
