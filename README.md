@@ -5,8 +5,7 @@
 
 ### How to use it
 
-#### `If you are a Linux beginner, paste the code below to your terminal`
-
+#### If you are a Linux beginner, paste the code below to your terminal
 
 ```shell
 git clone https://github.com/denstiny/Project-directory.git ~/.config/Project-directory
